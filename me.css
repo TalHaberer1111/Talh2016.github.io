@@ -34,10 +34,8 @@ img {
 
 body {
   background-image: url(http://www.visionsoftravel.org/wp-content/uploads/2015/01/TheGatewayArchSaintLouisMissouri.jpg);
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
   background-size: cover;
+
 }
 
 a {
@@ -66,4 +64,15 @@ li {
 
 .pic {
   float: right;
+}
+
+iframe {
+  display: block;
+  margin: auto;
+}
+
+.H {
+  color: white;
+  font-family: fantasy;
+  font-size: 100px
 }
