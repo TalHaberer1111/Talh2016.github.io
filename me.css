@@ -31,3 +31,14 @@ body {
   -o-background-size: cover;
   background-size: cover;
 }
+
+a {
+  font-family: fantasy;
+  font-size: 30px;
+  color: white;
+}
+
+.Bio {
+  text-align: center;
+  color: white
+}
