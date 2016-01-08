@@ -20,17 +20,20 @@ p {
   text-align: center;
   font-size: 50px;
   font-family: fantasy;
-  color: white;
+  color: #0000b3;
 }
 
 img {
     display: block;
     margin-left: auto;
-    margin-right: auto
-  }
+    margin-right: auto;
+    width: 35%;
+    border: 3px solid blue;
+    padding: 10px;
+    }
 
 body {
-  background-image: url(http://media.lonelyplanet.in/wp-content/uploads/2013/10/Munnar.jpg);
+  background-image: url(http://www.visionsoftravel.org/wp-content/uploads/2015/01/TheGatewayArchSaintLouisMissouri.jpg);
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -44,10 +47,19 @@ a {
 }
 
 .Bio {
-  text-align: center;
-  color: white
+  color: white;
+  font-size: 30px;
 }
+
 li {
   font-size: 30px;
   color: white;
+}
+
+.ME {
+  color:white;
+}
+
+.text {
+  padding: 30px;
 }
