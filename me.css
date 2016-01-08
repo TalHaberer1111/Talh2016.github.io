@@ -20,7 +20,7 @@ p {
   text-align: center;
   font-size: 50px;
   font-family: fantasy;
-  color: #0000b3;
+  color: white;
 }
 
 img {
@@ -39,9 +39,9 @@ body {
 }
 
 a {
+  color: white;
   font-family: fantasy;
   font-size: 30px;
-  color: white;
 }
 
 .Bio {
@@ -49,7 +49,7 @@ a {
   font-size: 30px;
 }
 
-li {
+ul {
   font-size: 30px;
   color: white;
 }
@@ -71,8 +71,9 @@ iframe {
   margin: auto;
 }
 
-.H {
-  color: white;
+.jumbotron {
+  background-image: url(https://scontent-lax3-1.xx.fbcdn.net/hphotos-ash2/v/t1.0-9/10646635_10101379725955264_5662894542856389855_n.jpg?oh=cab8fc941d607e737ebefa8e7e869866&oe=573FE98F);
+  font-size: 50px;
   font-family: fantasy;
-  font-size: 100px
+  color: white;
 }
