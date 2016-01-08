@@ -10,6 +10,11 @@ h2 {
   font-size: 60px;
   color: blue;
 }
+h3 {
+  color: white;
+  text-align: center;
+  font-size: 30px;
+}
 
 p {
   text-align: center;
@@ -41,4 +46,8 @@ a {
 .Bio {
   text-align: center;
   color: white
+}
+li {
+  font-size: 30px;
+  color: white;
 }
