@@ -1,0 +1,29 @@
+h1 {
+  text-align: center;
+  font-family: fantasy;
+  font-size: 100px;
+}
+
+h2 {
+  font-family: fantasy;
+  font-size: 60px;
+  color: blue;
+}
+
+p {
+  text-align: center;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+  }
+
+body {
+  background-image: url(http://www.drodd.com/images10/cool-wallpapers22.jpg);
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
