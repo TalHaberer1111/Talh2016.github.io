@@ -2,6 +2,7 @@ h1 {
   text-align: center;
   font-family: fantasy;
   font-size: 100px;
+  color: white;
 }
 
 h2 {
@@ -12,6 +13,9 @@ h2 {
 
 p {
   text-align: center;
+  font-size: 50px;
+  font-family: fantasy;
+  color: white;
 }
 
 img {
@@ -21,7 +25,7 @@ img {
   }
 
 body {
-  background-image: url(http://www.drodd.com/images10/cool-wallpapers22.jpg);
+  background-image: url(http://media.lonelyplanet.in/wp-content/uploads/2013/10/Munnar.jpg);
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
